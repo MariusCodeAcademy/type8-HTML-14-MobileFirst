@@ -12,6 +12,9 @@
   text-align: center;
   margin-bottom: 2.75rem;
 }
+.section-title-block--left {
+  text-align: left;
+}
 
 .stb__subtitle {
   text-transform: uppercase;
@@ -50,6 +53,10 @@
 .card__text {
   color: gray;
 }
+
+/* section 2 */
+
+/* mobile ============================================== */
 
 @media screen and (min-width: 768px) {
   .cards-section {
