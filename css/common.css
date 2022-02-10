@@ -11,3 +11,11 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5;
 }
+
+@media screen and (min-width: 1200px) {
+  .container {
+    padding: 0;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+}
