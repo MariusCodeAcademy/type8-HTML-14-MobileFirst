@@ -2,3 +2,12 @@
   padding-left: 15px;
   padding-right: 15px;
 }
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+}
